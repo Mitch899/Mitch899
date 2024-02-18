@@ -1,9 +1,17 @@
-Be my accountability partners. Goals:
-1. Learn Rust, make fun projects with tutorials for others who want to learn
-2. Learn the ins and outs of contributions so I can get my contribution chart to say something cool
-
-
-2024 motto - Now, not how.
+### whoami
+Avid learner - the borderline obsessed kind <br>
+Hobby hopper - the diy home reno, book writing, learn to code kind <br>
+FIRE enthusiast - the financial kind <br>
+Fire enthusiast - the camping kind <br>
+Tired mom - the really tired kind :)
+<br><br>
+### Goals:
+1. Learn Rust and document my progress
+2. Make fun projects with tutorials for others who want to learn
+3. Learn the ins and outs of contributions so I can get my contribution chart to say something cool
+<br><br>
+### 2024 motto
+Now, not how
 
 <!---
 Mitch899/Mitch899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
