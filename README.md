@@ -11,7 +11,7 @@ Tired parent - the really tired kind
 3. Learn the ins and outs of contributions so I can get my contribution chart to say something cool
 <br><br>
 ### 2024 Words to Live By
-Now, not how
+Now, not how <br>
 Work smarter, play more
 
 <!---
