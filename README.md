@@ -10,8 +10,9 @@ Tired parent - the really tired kind
 2. Make fun projects with tutorials for others who want to learn
 3. Learn the ins and outs of contributions so I can get my contribution chart to say something cool
 <br><br>
-### 2024 motto
+### 2024 Words to Live By
 Now, not how
+Work smarter, play more
 
 <!---
 Mitch899/Mitch899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
