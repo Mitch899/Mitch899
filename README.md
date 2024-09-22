@@ -2,7 +2,7 @@
 Avid learner - the borderline obsessed kind <br>
 Hobby hopper - the diy home reno, book writing, learn to code kind <br>
 FIRE enthusiast - the financial kind <br>
-Fire enthusiast - the camping kind <br>
+Fire enthusiast - the roasting marshmallows kind <br>
 Tired parent - the really tired kind 
 <br><br>
 ### Goals:
