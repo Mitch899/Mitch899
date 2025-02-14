@@ -10,7 +10,7 @@ Malware analyst - the just starting out kind
 2. Make fun projects with tutorials for others who want to learn
 3. Learn the ins and outs of contributions so I can get my contribution chart to say something cool
 <br><br>
-### 2024 Words to Live By
+### Words to Live By
 Now, not how <br>
 Work smarter, play more
 <br><br>
